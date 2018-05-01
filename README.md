@@ -1,5 +1,5 @@
 # Book Tracker
-Book Tracking App using Firebase Backend
+Book Tracking App using Firebase Backend  
 Live - http://patricksweetman.com/books/index.html
 
 ## Guide
