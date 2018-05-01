@@ -2,8 +2,8 @@
 Book Tracking App using Firebase Backend
 
 ## Guide
-Part I -https://youtu.be/PYcYdujGWc8
-Part II - https://youtu.be/2VmCqSzD0F0
+Part I -https://youtu.be/PYcYdujGWc8  
+Part II - https://youtu.be/2VmCqSzD0F0  
 
 ## Platforms
 * Web
