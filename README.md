@@ -3,8 +3,8 @@ Book Tracking App using Firebase Backend
 Live - http://patricksweetman.com/books/index.html
 
 ## Guide
-Part I -https://youtu.be/PYcYdujGWc8  
-Part II - https://youtu.be/2VmCqSzD0F0  
+Part I -https://youtu.be/moGcZHjq21Y  
+Part II - https://youtu.be/XZlP6fqvGNg  
 
 ## Platforms
 * Web
